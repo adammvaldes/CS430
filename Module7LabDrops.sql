@@ -1,0 +1,17 @@
+DROP TABLE publisherPhone;
+DROP TABLE authorPhone;
+DROP TABLE borrowedby;
+DROP TABLE writtenby;
+DROP TABLE publishedby;
+DROP TABLE Phone;
+DROP TABLE Author;
+DROP TABLE Member;
+DROP TABLE Publisher;
+DROP TABLE Book;
+DROP TABLE Library;
+DROP TABLE locatedat;
+DROP TRIGGER authorAdd;
+DROP TRIGGER addBook;
+DROP VIEW book_info;
+DROP TABLE Audit;
+DROP VIEW checkedout;
